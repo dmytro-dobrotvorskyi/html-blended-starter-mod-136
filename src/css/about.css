@@ -1,1 +1,19 @@
-/* Сюди додавай стилі частинки About */
+.about-list-title {
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 1;
+  letter-spacing: -0.05em;
+}
+
+.about-list-text {
+  font-size: 13px;
+  letter-spacing: -0.02em;
+  color: #b4b7ba;
+}
+
+.about-block-list {
+  border-radius: 24px;
+  background: #1b414b;
+  width: 716px;
+  height: 424px;
+}
